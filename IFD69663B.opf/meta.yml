@@ -1,0 +1,18 @@
+id: IFD69663B
+default_language: en
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:29:42.643937
+last_modified: 2023-01-04 11:29:42.643954
+source_metadata:
+  collections:
+  - Apang Tertön Series
+  - Works of Tibetan Masters
+bases:
+  025C:
+    title: A Prayer to Mañjuśrī
+    base_file: 025C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
